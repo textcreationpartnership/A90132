@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ould ship called an exhortation to continue all subjects in their due obedience, or the reward of a faithfull subject to his prince. To the bishops and clergy. To the true nobility. To the civil magistrate. To the true and faithfull subject. What a faithfull subject is? The discription of loyalty. / New riged by a well-wisher, to his prince and countrie, never more need to be set forth to sea, then in these distracted times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90132</idno>
+            <idno type="STC">Wing O216</idno>
+            <idno type="STC">Thomason E422_29</idno>
+            <idno type="STC">ESTC R16076</idno>
+            <idno type="EEBO-CITATION">99859967</idno>
+            <idno type="PROQUEST">99859967</idno>
+            <idno type="VID">112071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112071)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ould ship called an exhortation to continue all subjects in their due obedience, or the reward of a faithfull subject to his prince. To the bishops and clergy. To the true nobility. To the civil magistrate. To the true and faithfull subject. What a faithfull subject is? The discription of loyalty. / New riged by a well-wisher, to his prince and countrie, never more need to be set forth to sea, then in these distracted times.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Partly in verse.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>The words "To the bishops .. magistrate." are bracketed together on title page.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 13 1647"; the "8" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>To the reverend bishops and clergie -- To the true nobility of the realm -- To the civill majestrates, the lord majors, Mr. majors, and their sheriffes of London, Yorke, Newcastle, Carlile, and other inferiour officers -- To the true and faithful privet subject both in the north and south parts of the kingdom, my dear countreymen, whose loyalties to their prince and countrey will never be forgotten -- What a faithfull subject is -- The discription of loyalty.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112071:1" rendition="simple:additions"/>
+            <p>AN OULD SHIP CALLED AN EXHORTATION To continue all Subjects in their due Obe<g ref="char:EOLhyphen"/>dience, or the reward of a faithfull Subject to his Prince.</p>
+            <list>
+               <item>To the Biſhops and Clergy.</item>
+               <item>To the true Nobility.</item>
+               <item>To the Civi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Magiſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</item>
+               <item>To the true and faithfull Subject.</item>
+               <item>What a faithfull Subject is?</item>
+               <item>The diſcription of Loyalty.</item>
+            </list>
+            <p>New Riged by a Well-wiſher, to his Prince and Countrie, never more need to be ſet forth to Sea<g ref="char:punc">▪</g> then in theſe diſtracted times.</p>
+            <figure>
+               <p>Behold your King</p>
+               <p>THE ILE OF WAIT</p>
+            </figure>
+            <p>Printed in the Yeare 1648</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112071:2"/>
+            <pb n="1" facs="tcp:112071:2"/>
+            <div type="part">
+               <head>To the Reverend Biſhops, and Clergie,</head>
+               <p>FOr aſmuch as your Ecleſiaſticall office is given you from God, as the next Principall members (under the head) to governe the Common wealth of this miſticall bodie: And that their is required at your hands an Extraordinarie dutie touching the Function of the ſoule. Let mee entreat you to be as vigilant as the five wiſe Virgins, having oyle alwaies in your lamps, againſt the Bridegrome comes forth of his Chamber, your office is the ſoul of the Laitie, the heart of Government, and the very Epitome of all obedience, from you as the Moone boroweth her light of the Sunne, all inf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riour miniſters take their Order of perfection, let then your doctrine be pure, and ſted<g ref="char:EOLhyphen"/>faſt like <hi>Moyſes</hi> Buſh, that alwayes burned but never Conſumed: your preaching in Seaſon, and out of Seaſon, and your Converſation as ſpotleſſe as the ſa<g ref="char:EOLhyphen"/>crifice of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urtles.</p>
+               <p>You beſt know what plentie of Manna hath rained in <hi>Iſrael,</hi> and how many omer full every man ought to gather: be not any of you the firſt that gather more then is commanded, and in miſtruſt of Gods be<g ref="char:EOLhyphen"/>nefits in f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct the whole Land with the vice of Avarice.</p>
+               <p>You ought rather to be like Pelicans in the wil<g ref="char:EOLhyphen"/>derneſſe, who in tender love peck the blood from their
+<pb n="2" facs="tcp:112071:3"/>
+Breaſt to feed their young one: you ſee with your vi<g ref="char:EOLhyphen"/>ſible eye; how wonderfull Almightie God, hath al<g ref="char:EOLhyphen"/>wayes preſerved the <hi>Kings Majeſtie,</hi> from the ſnares of his manifould Enemies.</p>
+               <p>And in you principally lies the ſacrifice of thanks giving, it is you that ought to daunce before the ta<g ref="char:EOLhyphen"/>bernacle,<note place="margin">Num 17. 8. v.</note> and to go with the people to the Arke of the Covenant: that your righteouſneſſe may bud like <hi>A<g ref="char:EOLhyphen"/>rons</hi> ro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, it is you that ought to flie forth from this toſſed Arke, and like the doue, bring the olive branch<note place="margin">
+                     <hi>Gen.</hi> 8. 11.</note> of peace in your mouths, and tell the p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople, that if they returne God will be their God; and ſend a truce to their diſtreſſed ſoules by you his Ambaſſadors:</p>
+               <p>Fly not to <hi>Tharſis,</hi> when you are ſent to <hi>Niniveth,</hi> leaſt devouring deſtraction attend you, nor with the man of God goe not out of the way, Leaſt a Lion tare you in peices, but ſtill be converſent with the Lord, that<note place="margin">
+                     <hi>Exod.</hi> 34. 30.</note> your faces may ſhine with <hi>Moſes,</hi> when he came from the mount, and bring the Image of Gods glory to the People in your foreheads: you muſt beare, with <hi>Aron</hi>
+                  <note place="margin">
+                     <hi>Exod.</hi> 38. 3.</note> the breſt plate of Judgment upon your hearts, there muſt be graven upon your forefronts, holineſſe to the<note place="margin">
+                     <hi>E<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d.</hi> 35. 39</note> Lord, and your ſounds muſt be heard when you goe into the Holy places before him: So ſhall yee ſtand like Mount Sina, never to be removed, and your Gol<g ref="char:EOLhyphen"/>den candle ſtick ſhine in the Temple of the Lord re<g ref="char:EOLhyphen"/>member the charge your Mr. Chriſt gave to his ſer<g ref="char:EOLhyphen"/>vant <hi>Peter,</hi> binding him three times, above all things by his fervent love and the deare affection he bare to his Mr. to feed his ſheep; to be with <hi>Paul,</hi> the faith<g ref="char:EOLhyphen"/>full Ambaſſadors of Jeſus Chriſt, as though God did
+<pb n="3" facs="tcp:112071:3"/>
+beſech you through us; we pray you in Chriſts-ſtead,<note place="margin">2 <hi>Cor.</hi> 5. 2.</note> that ye be reconciled to God, with <hi>Paul,</hi> likewiſe to<note place="margin">
+                     <hi>Phil.</hi> 3. 14.</note> be an example of life and doctrine as in theſe words and follow hard toward the marke, for the price of the high calling of God in Chriſt Ieſus, let us therefore as many as be perfect be thus minded, if ye be other<g ref="char:EOLhyphen"/>wiſe, God ſhall reveale, even the ſame unto you. Ye are<note place="margin">
+                     <hi>Mat.</hi> 15. 13.</note> moſt Reverent, the ſalt of the earth, which wanting ſa<g ref="char:EOLhyphen"/>vour is to be troden under foot; yee are the light of the world a Ci<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y that is ſet on a hill cannot be hid, let your light therefore ſhine that they that ſee your good workes, may glorifie your father which is in Heaven.</p>
+               <p>This unworthy to councell ſo grave adviſements, as if the body ſhould inſtruct the ſoule, I only like a traviler in his pilgrimage, ſeeing a King go out of his way, tell him there is a better, a more perfect and a ſtraighter: ſo referring you to your maſters reward who hates a hidden tallent, I beſeech that God, who<note place="margin">
+                     <hi>Exod.</hi> 13. 21.</note> guideth Iſrael by day in a pillar of cloud, &amp; by night in pillar of fire, to direct your earthly bodies and ſpirituall ſoules to his ſervice,</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="part">
+               <head>To the true Nobility of this Realm.</head>
+               <p>TO yee Right honourable, that are the props and ſupporters of a Kingdom, that like <hi>Atlas</hi> ſhould beare the weight of heaven one your ſhouldiers, give me leave to ſtretch forth the atires of my heart, and as in theſe tempeſtious times, unite yourſelves togeather in peace like one body, obedient to one principall
+<pb n="4" facs="tcp:112071:4"/>
+head, in the worthy member the heart, the Monarch ſeate of our Microcoſmos, ſhould be your reſidence, within whoſe center as in a Princes Court, are diverſe receptailes for you to inhabit in, then as branches ex<g ref="char:EOLhyphen"/>tending from the lofty Cedar<g ref="char:punc">▪</g> being ſed by one root, doe notwithſtanding cheriſh one another wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h their naturall ſap: ſo like the true ſtock of Nobility<g ref="char:punc">▪</g> diſcen<g ref="char:EOLhyphen"/>ded from your worthy anceſtors, be you combined in a conjunction of unſeperable aide, that the body of the tree may be comforted in ſo happy an Iſſue, and in the proudeſt blaſt of conſpiracy, keepe you ſtill unre<g ref="char:EOLhyphen"/>movable, be you like faithfull <hi>Mardocheus,</hi> ſpotles in your waies, when traytors like proud <hi>Haman</hi> ſhall pe<g ref="char:EOLhyphen"/>riſh in their own complo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<g ref="char:punc">▪</g> For if you pleaſe to peruſe our Hiſtories, both Ecleſiaſticall and prophane, yee ſhall find that never traitor to his native Prince, but had his reward threefold returned into his wicked bo<g ref="char:EOLhyphen"/>ſome, and though it hath pleaſed God ſomtimes to ſuffer them, (the cauſe beſt known to his ſacred plea<g ref="char:EOLhyphen"/>ſure) to bring to paſſe their hatefull purpoſes: yet as a woe pronounced to them by whom ſuch evils come, their miſchiefe hath not paſt without great miſchiefe reguerdond, their is none of your honourable ſociety, but knowes that treaſon is the devider and ſeperater of all good things, and a fatall disjoyner of perfection, bringing with it ruin, and the mercileſſe ſubſtitutes of war, where one the contrary, obedience is the finewes of the State, and glewes the hearts of Nobility togea<g ref="char:EOLhyphen"/>ther, like one indiviſible ſubſtance, and as the ſeaven leane <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine in <hi>Pharaohs</hi> dreame, devoured the ſeaven far, yet themſelves not the fatter: ſo ſtands it with treaſon,
+<pb n="5" facs="tcp:112071:4"/>
+like a cormerant, it devours all: yet is it ſelf the better by nothing. What greater paterne of miſery can there be, then a Kingdom devided in it ſelf, it is like the dan<g ref="char:EOLhyphen"/>gerous Eclipſe of the Sunne: nay like the unnaturall ſeperation of heaven, that brings all danger and de<g ref="char:EOLhyphen"/>ſtruction, no plague of <hi>Egypt</hi> comparable to that miſe<g ref="char:EOLhyphen"/>ry, for Civill diſcention is the gate to let in ruin, and foraine invaſion, it is like a wedge of Iron, that entring into an oake, diſſevers both ſides in ſeverall peices, and makes them both fit for the fire.</p>
+               <p>The flouriſhing State of <hi>Rome</hi> was devoured by that Monſter, and all tranquility ſwallowed up at a bit by that hidious Leviathan, it is like the blind Mole, that loveth ſtill to be miſchievouſly labouring, toſſeth up her own deſtruction.</p>
+               <p>Let then, Right honourable, that acceptable ſacri<g ref="char:EOLhyphen"/>fice of your hearts be offered to our gracious Sove<g ref="char:EOLhyphen"/>raign:, which far exceeds the externall offices of fai<g ref="char:EOLhyphen"/>ned affections, who with an eye of vigilancy will, no doubt, regard your vertues, and like the cheerefull comfort of the Sun with his bleſſed countinance, make your young bloſoms come to pleaſant fruit, and bring the fruit by comfortable warmth to full maturity.</p>
+               <p>By this meanes, ſhall your Phenix live ſtill, and you be made moſt happy in his freſh renewing, God ſo di<g ref="char:EOLhyphen"/>rect your hearts to worke in you unfained loyalty to his ſacred Majeſty, and deadly hatred to ſelf devou<g ref="char:EOLhyphen"/>ring treaſon,</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:112071:5"/>
+               <head>To the Civill Majeſtrates, the Lord Majors, Mr. Majors, and their She<g ref="char:EOLhyphen"/>riffes of London, Yorke, Newcaſtle, Carlile, and other inferiour Officers.</head>
+               <p>THe naturall care and loyalty, your Anceſtors have ever borne to their Soveraigns, ſince their firſt flouriſhing time, both in peace and warre, hath in ages paſt, (as deedes worth Regiſtring) been Recor<g ref="char:EOLhyphen"/>ded: for it is manifeſt when Princes, that heeretofore have governed, have held their Reigns with a more ſe<g ref="char:EOLhyphen"/>vere hand, then in our times (God be thanked) yet they have without repining willingly ſuſtained, as giving place to time, to fortune, or both. And as in all dange<g ref="char:EOLhyphen"/>rous commotions, they have made apparent their for<g ref="char:EOLhyphen"/>ward loves and loyalties, to their Prince and native Country, ſo it were to be wiſhed, that you that are their ſucceſſour, would follow their examples, and with aperfect reſolution, and vigilant care, unite your ſelvesin love together, and lend your helping hand, when occaſion ſhall ſerve, to reſtore our to much wronged Soveraigne to his Rights again; for their is no other Balſom, will heale the wounds of our long languiſhing and bleeding Country, if ſo you do, you ſhall find your Soveraigne like a carefull mother, with <hi>Heſter,</hi> be ready to offer himſelf for his people, and with <hi>Iudeth</hi> to dread no danger to preſerve his own Nation.</p>
+               <p>
+                  <pb n="7" facs="tcp:112071:5"/>The Titants <hi>Diocleſian Nero,</hi> and <hi>Phalaris,</hi> who moſt blodily dived into the bowels of their friends and ſubjects, were obeyed both in love and feare: though their Tyrany extended to all licentious and uncivill proceedings, how much more ought yee, having a moſt Chriſtian Prince <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o govern yee, that tenders the Prick<g ref="char:EOLhyphen"/>ing of yourfinger, more then a wound from his own hart to proſecu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e his P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>incely thoughts <hi>and</hi> pure integrety, I am conſtrained to urge this as a thing which cannot be two often mentioned; conſidering the craftie and many ſubtill of the diſloyiall <hi>Saduccs</hi> in theſe times, and ſtrive as much as in them lyeth, to bribe and turne the hearts of his highneſſe loving ſubjects, againſt him, (as the <hi>Divell</hi> which ſhewe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h darnell amongſt the beſt wheat) with counterfit ſhews and deceitfull practi<g ref="char:EOLhyphen"/>ſes, or like the craccoldaile in <hi>Niclus,</hi> which weeps like a Child till ſhe allure ſome paſſenger, and then re<g ref="char:EOLhyphen"/>turning in the nature of her ugly ſhape, her hunger bitten Paunch, and preſently devours of ſuch peſtife<g ref="char:EOLhyphen"/>rous sſtuffe are all glozing ſiccophants that guild their pretences (to keep the counterfit unſpied) with ſuch falſe ſuggeſtions<g ref="char:punc">▪</g> carrying neither honeſty, reaſon, or truth, but like the divells that entred into the heard of <hi>Swine,</hi> when they cannot have libertie or li<g ref="char:EOLhyphen"/>cence to do one miſchiefe, covet to enter into another; ſo their mallice may be ſet on worke, but to withſtand ſuch I know your civill Iudgments are able if your minds were willing:</p>
+               <p>Herein you ought the rather to be thorowly con<g ref="char:EOLhyphen"/>firmed, ſeeing how God hath from the begining of his Majeſties reigne, defended him againſt all manner of
+<pb n="8" facs="tcp:112071:6"/>
+envious aſſaults, and laid their owne evill, upon the wickedneſſe of their owne heads.</p>
+               <p>This ſhould make you (methinks) chary to diſco<g ref="char:EOLhyphen"/>ver to your dread Soveraigne, any miſcheife lurking like Poyſon of<g ref="char:punc">▪</g> 
+                  <hi>Aſpes</hi> under their lips, call to mind his Majeſties gratious Proclamation; wherein he hath declared himſelfe, and now ſheweth it to the world to be more carefull of your wellfaire then his own (I ſhould thinke) you ſeeing the abuſe and ſlaviſh ſervilitie that your native Country is brought unto by your diſobedience ſhould ſtir you up to gaine what is loſt, and England, nay O Engliſh men where have you loſt your hearts of loyaltie? or what is become of your eyes, that you ſee not, your ſelves oppreſſed with ſuch tedious burthens and clogges, as to be conſtrained to pay tribu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e both for your appetile and ſuſtinance, your King impriſoned in the Iſle of Wight, your Prince forced to live in an<g ref="char:EOLhyphen"/>nother Kingdom, nay more what can be worſe, all theſe things are by our fellow ſubjects, which in all righr ſhould be our ſervants, but now they are become our Lords, and taſkemaſters, for they which will trample their head under their feet, will not uſe the bodie other wayes, all theſe things and many more well wayed, we cannot ſay otherwiſe, but it is a thorow Deformation both in Church and State.</p>
+               <p>This as one ſervant in aff<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction, adviſing even as you would have your ſoules l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft upon high, and your coffers inricht on earth: as you looke to have your War-houſes fild ful of Godsbleſſing, to have your wine good, and your ale fat; once againe I ſtirr you up, like
+<pb n="9" facs="tcp:112071:6"/>
+a flame that is quickned with blowing, to have God obey your Prince, and do good for your Countrie ſo ſhall his proudeſt enemies dye at his feet, and ye be made worthy Inſtruments like (a Tower of Marble) to defend his ſacred Majeſty, whom God continue with long health and proſperous life.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="part">
+               <head>To the true and faithfull privet ſubject both in the North and South parts of this Kingdom; my deare Coun<g ref="char:EOLhyphen"/>treymen, whoſe loyalties to their Prince and Countrey will never be forgotten.</head>
+               <p>AND now beloved Countreymen to you in ge<g ref="char:EOLhyphen"/>nerall, that carry with you the full Currant of affection, the ſwifteſt ſtreame of deepe guiding love, not to be revented or turned back by the vehement op<g ref="char:EOLhyphen"/>poſition of my reſiſting wind, to you as to the open marke; whereto my heart leavile her pretended aime, being the upſhot of my exhortation, I ſend this my friendly Councell, like as a Citie well fenſed about with impregnable walles: ſo ought ye to be in time of domiſticall rebellion or forraign invaſion; ye are the maine Battaile, the ſtrength and truſt of this King<g ref="char:EOLhyphen"/>dom, and to you belong a chiefe truſt in the required renovation, as his highneſs may well be compared to
+<pb n="10" facs="tcp:112071:7"/>
+the apple of our eye, which naturally (by reaſon it is tender unto us) we have moſt care: ſo ought ye to joyne your whole bodies, goods, Armes, Leggs, Feet, and hart, to protect his Royall perſon, without ſecret grudging, private muttering, or uncivi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l contro<g ref="char:EOLhyphen"/>verſie.</p>
+               <p>Ye ought to be like ſtedfaſt Rocks in the ſea, to af<g ref="char:EOLhyphen"/>front every ſtorme, and to withſtand (without mut<g ref="char:EOLhyphen"/>tering) the moſt bitter blaſts, that either winter or foule weather can afford.</p>
+               <p>To conclude, I beſeech God in his infinite mercy ſtir up your deare affecting love to His Majeſty; mercy hath alwayes ſitten at his Right hand, and honoured about him like a continuall Hand-maid, mercy is the wedding King, that like unſpotted Virgine, hath (mar<g ref="char:EOLhyphen"/>ried him to our Saviour) and hath ſetled his highneſſe the faithfull preſident of his true Church, wherein may his Maj. continue many happy dayes, to the glory of God, and the comfort of his faithfull loving ſub<g ref="char:EOLhyphen"/>jects.</p>
+               <closer>Amen.</closer>
+            </div>
+            <div type="part">
+               <head>VVhat a faithfull Subject is:</head>
+               <p>A Good ſubject, next to the diadem that a dornes a Princes head, is the chiefeſt Ornament that de<g ref="char:EOLhyphen"/>cores his dignity; he is the precious balme that an<g ref="char:EOLhyphen"/>noints his browes, and is never to the hart, then his Scepter to his Right hand, as ſweet in his noſtrills as the groves of <hi>Gillead,</hi> and more precious in his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight
+<pb n="11" facs="tcp:112071:7"/>
+then <hi>Solomons</hi> yourythorne covered with pureſt Gold.</p>
+               <p>His heart is clothed with peace, like mount <hi>Olivet,</hi> &amp; his eyes as harmleſſe as the ſight of a Dove: his tongue ſounds like the Harpe of <hi>David:</hi> and his lips deliver the happineſſe of loyalty: his eares are the p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>talls that receive underſtanding and all perfection from thence is conducted to the hart: his hands are readie to fight the batailes of the Lord, and his feet ſhining the ſteps of blood, are bent alwaies to walke in the paths of innocencie, thus excellent in the ſight of the Prince ſhines a faithful Subject, more gorgeous then the Ephod of <hi>Aron:</hi> and more ſumtuous then <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> in all his Royalty, who ſo is this to this his Prince and Countrie, the Lord will proſper him, and he ſhall be bleſſed in everlaſting generation: and for one of theſe benefits he receives in earth, he ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll have a million in Heaven, for one of theſe perfections he partakes of in this world, numbers above number, ſhall attend him in the world to come: And his Prince ſhall thus pray for him, and bleſſe him: As <hi>Solomon</hi> did his Subjects.</p>
+               <p>And the King turned his face and bleſſed all the Congregation of <hi>Iſraell,</hi> and ſaid bleſſed be the Lord God of <hi>Iſraell,</hi> who ſpake with his mouth to <hi>David</hi> my Father, and hath with his hand fulfilled it.</p>
+               <p>And though my ſelfe may ſay with <hi>Iſaiah,</hi> I am a worme, and no man; yet (I ſpake it in deſpite of vaine glorye) I would with all my hart as an <hi>Iſaac</hi> in the hands of <hi>Abraham,</hi> ſerve as a Sacrifice, to doe my Prince, and Countrie good: for ſure hee cannot bee
+<pb n="12" facs="tcp:112071:8"/>
+a true ſervitur of God, that is not a faithfull (ſubject to his Prince, neither would I Iudge my filicity i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this world Anſwerable to that, if once my ſoule might be Imployed to pleaſe my Prince, and benefit my Country.</p>
+               <p>For all the offices, of Humanity depend only up<g ref="char:EOLhyphen"/>on theſe Principall performances, for I know by that meanes there comes a Bleſſing from a farr, a reward full of joy, which none elſe are worthy to obtaine, which reward I hartely pray the great Rewarder of all to ſend to the true, loyall, and Faithfull Subiects: of <hi>England</hi> and ſo wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h one voyce proceding from one unity of heart, let us all ſay Faithfully, (GOD SAVE KING CHARLES:)</p>
+               <closer>AMEN.</closer>
+            </div>
+            <div type="part">
+               <head>The Diſcription of Loyalty.</head>
+               <lg>
+                  <l>ABove the Clouds where ſprangled troopes of Starrs,</l>
+                  <l>Adorne the precious boſome of the Skye:</l>
+                  <l>Where heavenly peace abandons breaking Jars,</l>
+                  <l>And all the Conſort that is tun<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> on high:</l>
+                  <l>Send forth their delicat melodious ſounds,</l>
+                  <l>That makes thoſe Chriſtall vaults with joy abound.</l>
+               </lg>
+               <lg>
+                  <l>With in the bright, Imperiall orbe of reſt,</l>
+                  <l>Where ſoules of Saints one Goulden alters ſett:</l>
+                  <l>And in the Lambes ſweet breath are only bleſt,</l>
+                  <l>Where thouſand Graces millions more beget:</l>
+                  <l>
+                     <pb n="13" facs="tcp:112071:8"/>His Loyalty in thr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nd in bleſſed Chaire:</l>
+                  <l>Moſt gorgeous in attire, moſt heavenly faire.</l>
+               </lg>
+               <lg>
+                  <l>About her head, the Swift wing Cherubines,</l>
+                  <l>hover their ſilver Pinions in her eyes:</l>
+                  <l>And the ſweet ſpheares with glorious ſeraphins,</l>
+                  <l>Vpon her ſhining brow with bliſſe ariſe:</l>
+                  <l>No ſtormie Cloud can vail her beauteous face,</l>
+                  <l>Becauſe their burnes the holy lamp of Grace.</l>
+               </lg>
+               <lg>
+                  <l>Truth richly clothed in whight ornament,</l>
+                  <l>ſtand at the right hand of this happy Saint.</l>
+                  <l>from whom the words of Righteouſnes are ſent,</l>
+                  <l>whoſe cheerfull hopes by envie cannot faint.</l>
+               </lg>
+               <lg>
+                  <l>But as the Daughter to the Higheſt power;</l>
+                  <l>She ſits defended in a ſtrong built Tower:</l>
+               </lg>
+               <lg>
+                  <l>Vpon her left hand hope her anker wayes,</l>
+                  <l>One whom her dear ſucceſse doth ſtill attend.</l>
+                  <l>Nor doth ſhee feed her ſervants with delayes,</l>
+                  <l>But they that one her ſacred state depend.</l>
+                  <l>with bountious hand ſhee gives ſuch rich reward,</l>
+                  <l>as vading fame hath neither ſeene nor heard:</l>
+               </lg>
+               <lg>
+                  <l>And as great Michaell with the Dragon fought</l>
+                  <l>About the choſen Moſes ſacred bo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es:</l>
+                  <l>So ſhe contends with tray<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ors that have ſought,</l>
+                  <l>To touch the hearts of Gods annointed ones.</l>
+                  <l>And like the Archangell gives them all the foile.</l>
+                  <l>That lift their hands a Princes life to ſpoile.</l>
+               </lg>
+            </div>
+            <div type="postscript">
+               <pb facs="tcp:112071:9"/>
+               <head>POSTSCRIPT<g ref="char:punc">▪</g>
+               </head>
+               <head>To his Noble Colonell the Right Honorable Sir. Thomas Gl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Colonell Generall Governor of York Commander in cheif, of Weſt<g ref="char:EOLhyphen"/>merland, Comberland, Northumberland<g ref="char:punc">▪</g> and the Citie of Car<g ref="char:EOLhyphen"/>liſle, and laſtly, Major Generall to his Majeſtie and Go<g ref="char:EOLhyphen"/>vernor of Oxford, the true patern of Loyaltie.</head>
+               <opener>
+                  <salute>Sir,</salute>
+               </opener>
+               <p>I Have ever accounted in gratitude, to be not only the greateſt, but the uglieſt monſter in nature, according to that Ingra<g ref="char:EOLhyphen"/>tum Si dixeris omnio dixeris, wondring at the moſt ſort of men, which in this our age doe live, that they take ſo little regard of it, and not rather, altogether ſhame and abhor it, but when I perti<g ref="char:EOLhyphen"/>cularly muſe of ſome, as of my ſelfe I find that either oppertunity will not alwayes ſerve, or abillitie in moſt do want, to thoſe that carrie willing minds or anſwerable in deeds, and concerning my ſelfe; of wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch is now my drift diſpare, I have often feared leaſt of di<g ref="char:EOLhyphen"/>vers hereof I would as guiltie be noted, and of many to whom I have been grea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly beholden<g ref="char:punc">▪</g> juſtly condemned, but of note more then of your Honour: which to me for ſom years together, you have been pleaſed to beſtow upon me many noble favours, the whilſt I was under your command, wherefore having gotten ſome fit occation, I thought not to pretermit the ſame, but therein to view my mind and poore ability, wherein I may doe your honour any ſervice, I doe here preſent, ſmall I ſay in reſpect of anſwering any benefit re<g ref="char:EOLhyphen"/>ceived, but great and pretious in regard of the matter therein con<g ref="char:EOLhyphen"/>tained; I having been an eye witneſſe of your Honours actions for his Majeſties cauſe, and knowing what great paines and adventures you have undertaken for the defence of it, being alwayes a good account to your Maſter, as a juſt ſteward ought to doe, your loyall action which England is not ignorant of, hath imbolden me to preſent this ſmall worke to the eyes of the world under good protection, (not to gaine A populer applauſe) but to hinder as far as in me lyeth; the trampling ſoe pretious a Iewell, under the feet of ſuch ſwine which wallows in the myre of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe our times. I take leave of your Honor, wiſhing you all happineſſe in this life, and in the world to come Eternall Felicities.</p>
+               <closer>This is the prayers of
+<signed>one of your Honours Cap<g ref="char:EOLhyphen"/>taines, who wil be alwayes readie to obſerve your command </signed>
+                  <salute>vale.</salute>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
